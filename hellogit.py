@@ -1,2 +1,1 @@
-print("Hello Git")
-print("Git is the best")
+print("Hello Git 1")
